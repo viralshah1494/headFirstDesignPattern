@@ -12,3 +12,6 @@
 **/.settings
 **/bin/**
 *.project
+gradle/
+gradlew
+gradlew.bat
